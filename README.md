@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Ishu Rana</h1>
 
 <h3 align="center">🚀 AI & ML Explorer | Python Developer | B.Tech CSE (AI & ML)</h3>
