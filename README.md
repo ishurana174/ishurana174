@@ -3,7 +3,7 @@
 <h3 align="center">🚀 AI & ML Explorer | Python Developer | B.Tech CSE (AI & ML)</h3>
 
 <p align="center">
-Passionate about Artificial Intelligence, Machine Learning, Python and Building Real-World Projects.
+Passionate about Artificial Intelligence, Machine Learning and building real-world applications.
 </p>
 
 ---
@@ -14,14 +14,14 @@ Passionate about Artificial Intelligence, Machine Learning, Python and Building 
 - 💻 Python & Flask Developer
 - 🤖 AI & Machine Learning Enthusiast
 - 🌱 Currently learning DSA, Machine Learning & Backend Development
-- 🚀 Building real-world projects
+- 🚀 Building real-world AI projects
 - 📍 Etawah, Uttar Pradesh, India
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+**Languages**
 - Python
 - Java
 - C
@@ -29,14 +29,14 @@ Passionate about Artificial Intelligence, Machine Learning, Python and Building 
 - CSS
 - JavaScript
 
-### Frameworks & Libraries
+**Frameworks & Libraries**
 - Flask
 - Pandas
 - NumPy
 - OpenCV
 - Scikit-learn
 
-### Tools
+**Tools**
 - Git
 - GitHub
 - VS Code
@@ -59,17 +59,22 @@ Passionate about Artificial Intelligence, Machine Learning, Python and Building 
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=ishurana174&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishurana174&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ishurana174&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishurana174&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🎯 Current Focus
 
-![](https://streak-stats.demolab.com?user=ishurana174&theme=tokyonight)
+- 🤖 Artificial Intelligence & Machine Learning
+- 🐍 Python Development
+- 🌐 Flask Web Development
+- 📚 Data Structures & Algorithms
+- 💼 Open to Internship Opportunities
 
 ---
 
@@ -77,9 +82,11 @@ Passionate about Artificial Intelligence, Machine Learning, Python and Building 
 
 - 💼 LinkedIn: https://www.linkedin.com/in/ishu-rana-681b
 - 💻 LeetCode: https://leetcode.com/u/ishurana/
-- 🔥 HackerRank: https://www.hackerrank.com/profile/Ishurana174
+- 🏆 HackerRank: https://www.hackerrank.com/profile/Ishurana174
 - 📧 Email: ishuranakanhaiya@gmail.com
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
