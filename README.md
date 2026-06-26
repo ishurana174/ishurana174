@@ -1,27 +1,34 @@
 <h1 align="center">Hi 👋, I'm Ishu Rana</h1>
 
-<h3 align="center">🚀 AI & ML Explorer | Python Developer | B.Tech CSE (AI & ML)</h3>
+<h3 align="center">
+🚀 AI & ML Explorer | Python Developer | B.Tech CSE (AI & ML)
+</h3>
 
 <p align="center">
-Passionate about Artificial Intelligence, Machine Learning and building real-world applications.
+Passionate about Artificial Intelligence, Machine Learning, Python and Building Real-World Projects.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering (AI & ML)
-- 💻 Python & Flask Developer
-- 🤖 AI & Machine Learning Enthusiast
-- 🌱 Currently learning DSA, Machine Learning & Backend Development
-- 🚀 Building real-world AI projects
-- 📍 Etawah, Uttar Pradesh, India
+🎓 B.Tech Student (Computer Science & Engineering - AI & ML)
+
+💻 Python & Flask Developer
+
+🤖 Passionate about AI, Machine Learning & Data Science
+
+🌱 Currently learning DSA, Machine Learning and Backend Development
+
+🚀 Building Real-World AI Projects
+
+📍 Etawah, Uttar Pradesh, India
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-**Languages**
+### 💻 Programming Languages
 - Python
 - Java
 - C
@@ -29,64 +36,92 @@ Passionate about Artificial Intelligence, Machine Learning and building real-wor
 - CSS
 - JavaScript
 
-**Frameworks & Libraries**
+### ⚙️ Frameworks & Libraries
 - Flask
 - Pandas
 - NumPy
 - OpenCV
 - Scikit-learn
 
-**Tools**
+### 🛠 Tools
 - Git
 - GitHub
 - VS Code
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 AI Resume Screening Tool
-- Resume Parsing
-- PDF & DOCX Support
-- Resume Score Generation
-- Job Description Matching
-- Flask Web Application
+## 🤖 AI Resume Screening Tool
 
-### 💻 CodeAlpha Tasks
-- Python Programming Projects
+✔ Resume Parsing
+
+✔ PDF & DOCX Support
+
+✔ Resume Score Generation
+
+✔ Job Description Matching
+
+✔ Flask Web Application
+
+---
+
+## 🏆 Coding Achievements
+
+🐍 HackerRank
+- ⭐⭐⭐⭐⭐ Python
+- ⭐⭐⭐ Java
+
+💻 LeetCode
+- ✅ Solved 100+ Problems
+
+📜 HackerRank Certificates
+- Python
 - Problem Solving
-- Automation Scripts
+- C Programming
 
 ---
 
-## 📊 GitHub Statistics
+# 📚 Currently Learning
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ishurana174&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishurana174&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🎯 Current Focus
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 🐍 Python Development
-- 🌐 Flask Web Development
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🐍 Advanced Python
+- 🌐 Flask Development
+- 📊 Data Science
 - 📚 Data Structures & Algorithms
-- 💼 Open to Internship Opportunities
 
 ---
 
-## 🌐 Connect With Me
+# 🎯 Goals for 2026
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ishu-rana-681b
-- 💻 LeetCode: https://leetcode.com/u/ishurana/
-- 🏆 HackerRank: https://www.hackerrank.com/profile/Ishurana174
-- 📧 Email: ishuranakanhaiya@gmail.com
+- 🚀 Build 10+ Real-World Projects
+- 💻 Solve 500+ DSA Problems
+- 🎯 Crack a Good Internship
+- 🤖 Become an AI Engineer
 
 ---
 
-<p align="center">
+# 🌐 Connect With Me
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/ishu-rana-681b
+
+💻 LeetCode
+
+https://leetcode.com/u/ishurana/
+
+🏆 HackerRank
+
+https://www.hackerrank.com/profile/Ishurana174
+
+📧 Email
+
+ishuranakanhaiya@gmail.com
+
+---
+
+<h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
-</p>
+</h3>
