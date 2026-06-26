@@ -1,32 +1,27 @@
-# Hi 👋, I'm Ishu Rana
+<h1 align="center">Hi 👋, I'm Ishu Rana</h1>
 
-## 🚀 AI & ML Explorer | Python Developer | B.Tech CSE (AI & ML)
+<h3 align="center">🚀 AI & ML Explorer | Python Developer | B.Tech CSE (AI & ML)</h3>
 
-🎓 B.Tech Student (CSE - AI & ML)
-
-💻 Passionate about Python, AI, Machine Learning and Web Development
-
-🌱 Currently learning Data Structures & Algorithms, Machine Learning and Backend Development
-
-🚀 Building real-world AI projects and improving problem-solving skills every day.
+<p align="center">
+Passionate about Artificial Intelligence, Machine Learning, Python and Building Real-World Projects.
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE (AI & ML)
-- 🐍 Python Developer
+- 🎓 B.Tech in Computer Science & Engineering (AI & ML)
+- 💻 Python & Flask Developer
 - 🤖 AI & Machine Learning Enthusiast
-- 🌐 Flask Web Developer
-- 💡 Love solving coding problems
+- 🌱 Currently learning DSA, Machine Learning & Backend Development
+- 🚀 Building real-world projects
 - 📍 Etawah, Uttar Pradesh, India
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-### Programming Languages
-
+### Languages
 - Python
 - Java
 - C
@@ -34,19 +29,14 @@
 - CSS
 - JavaScript
 
-### Frameworks
-
+### Frameworks & Libraries
 - Flask
-
-### Libraries
-
 - Pandas
 - NumPy
 - OpenCV
-- Scikit-Learn
+- Scikit-learn
 
 ### Tools
-
 - Git
 - GitHub
 - VS Code
@@ -56,34 +46,40 @@
 ## 🚀 Featured Projects
 
 ### 🤖 AI Resume Screening Tool
-- Resume Analysis using AI
-- PDF & DOCX Resume Parsing
+- Resume Parsing
+- PDF & DOCX Support
 - Resume Score Generation
 - Job Description Matching
 - Flask Web Application
 
----
-
-## 📈 Coding Profiles
-
-💻 LeetCode
-
-https://leetcode.com/u/ishurana/
-
-💻 HackerRank
-
-https://www.hackerrank.com/profile/Ishurana174
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/ishu-rana-681b
+### 💻 CodeAlpha Tasks
+- Python Programming Projects
+- Problem Solving
+- Automation Scripts
 
 ---
 
-## 📫 Contact
+## 📈 GitHub Stats
 
-📧 ishuranakanhaiya@gmail.com
+![](https://github-readme-stats.vercel.app/api?username=ishurana174&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishurana174&layout=compact&theme=tokyonight)
 
 ---
 
-⭐ Thanks for visiting my profile.
+## 🔥 GitHub Streak
+
+![](https://streak-stats.demolab.com?user=ishurana174&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ishu-rana-681b
+- 💻 LeetCode: https://leetcode.com/u/ishurana/
+- 🔥 HackerRank: https://www.hackerrank.com/profile/Ishurana174
+- 📧 Email: ishuranakanhaiya@gmail.com
+
+---
+
+### ⭐ Thanks for visiting my profile!
